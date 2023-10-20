@@ -1,6 +1,6 @@
 <p align=center>
 
-<img src='assets/front_color.png'>
+<img src='assets/font_color.png'>
 
 <p align='center'>This Tool Developed By <br> <a herf="https://www.instagram.com/the_naresh_offcial/">@thenareshofficial</p>
 
